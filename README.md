@@ -25,5 +25,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - This game was inspired by the classic Snake game.
-- Built using HTML, CSS, and JavaScript.
+- Built using Java.
 
