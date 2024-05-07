@@ -14,9 +14,6 @@ Welcome to the Snake Game!
 - **Left Arrow:** Move the snake left
 - **Right Arrow:** Move the snake right
 
-## Getting Started
-To play the game, simply open the `index.html` file in your web browser.
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the game, feel free to fork the repository and submit a pull request with your changes.
 
